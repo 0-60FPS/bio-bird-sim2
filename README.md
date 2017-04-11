@@ -1,2 +1,3 @@
 # bio-bird-sim2
-a
+
+nb: the executable file only works on osx
